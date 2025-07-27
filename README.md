@@ -31,8 +31,4 @@ The final cleaned dataset was exported to Excel for use in analytics, dashboards
 
 Interested in collaborating or discussing this data cleaning project? Let’s connect.
 
-[Portfolio](https://chimatty.netlify.app/)
-
-[LinkedIn](linkedin.com/in/michael-matty)
-
-[Email](mathiasmichael2@gmail.com)
+[Portfolio](https://chimatty.netlify.app/) [LinkedIn](linkedin.com/in/michael-matty) [Email](mathiasmichael2@gmail.com)
