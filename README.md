@@ -4,7 +4,7 @@
 
 ⸻
 
-### 🧾 Project Summary:
+### Project Summary:
 
 Cleaned and standardized two messy financial datasets containing customer profiles and transaction histories. This project focused exclusively on data cleaning and transformation, ensure data accuracy and consistency. After cleaning, both datasets were merged on Customer_ID to create a unified, analysis-ready file suitable for reporting, dashboards and advanced analytics.
 
