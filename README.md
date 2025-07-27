@@ -1,5 +1,7 @@
 # Customer-Financial-Data-Cleaning-and-Integration
 
+![image](https://github.com/user-attachments/assets/9766aa8e-8e69-44f8-8991-c9dd58216785)
+
 #### Every clean insight starts with clean data.
 
 ⸻
