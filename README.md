@@ -22,3 +22,15 @@ Cleaned and standardized two messy financial datasets containing customer profil
 - Merging customer profiles with transaction data into a unified, analysis-ready file
 
 The final cleaned dataset was exported to Excel for use in analytics, dashboards, or further automation workflows.
+
+⸻
+
+### Contact
+
+Interested in collaborating or discussing this data cleaning project? Let’s connect.
+
+[Portfolio](https://chimatty.netlify.app/)
+
+[LinkedIn](linkedin.com/in/michael-matty)
+
+[Email](mathiasmichael2@gmail.com)
